@@ -8,12 +8,14 @@ You can click the Preview link to take a look at your changes.
 
 Here are some ideas to get you started:
 
-- 👋 Hi, I’m gido park
-- 👀 I’m interested in **Sf-movie, sccocer, coding, meatverse ete...**
+- 👋 Hi, **I’m gido park**
+- I'm a **beginner**
+- 👀 I’m interested in **Sf-movie, soccer, coding, meatverse ete...**
 - 🌱 I’m currently learning **python, sience computer, 3d, unity etc...**
 - ✨ My dream is **'Full Stack Developer'**
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 
 
 
