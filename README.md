@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff) -->
-![Python](https://img.shields.io/badge/-python-?style=for-the-badge&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/python-3.5-blue)
