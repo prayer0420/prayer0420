@@ -6,7 +6,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Here are some ideas to get you started:
+This is an introduction about me!
+
 
 - 👋 Hi, **I’m gido park**
 - 💦I'm a **beginner**
