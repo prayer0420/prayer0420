@@ -12,7 +12,7 @@ This is an introduction about me!
 - 👋 Hi, **I’m gido park**
 - 💦I'm a **beginner**
 - 👀 I’m interested in **Sf-movie, soccer, coding, meatverse ete...**
-- 🌱 I’m currently learning **python, sience computer, 3d, unity etc...**
+- 🌱 I’m currently learning **python, science computer, 3d, unity etc...**
 - ✨ My dream is **'Full Stack Developer'**
 - 💞️ I’m looking to collaborate on ...
 
