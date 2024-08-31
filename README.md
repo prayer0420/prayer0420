@@ -22,4 +22,6 @@ This is an introduction about me!
 
 <h2> My tech stack 📚 </h2>
  <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
- <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+ <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+
+ 
