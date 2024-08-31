@@ -12,8 +12,8 @@ This is an introduction about me!
 - 👋 Hi, **I’m gido park**
 - 💦 I'm a **beginner**
 - 👀 I’m interested in **Sf-movie, soccer, coding, meatverse etc...**
-- 🌱 I’m currently learning **python, science computer, 3d, unity etc...**
-- ✨ My dream is **'Full Stack Developer'**
+- 🌱 I’m currently learning **C/C++, C#, Unity, Unreal, etc...**
+- ✨ My dream is **'Game Developer'**
 - 💞️ I’m looking to collaborate on ...
 
 
