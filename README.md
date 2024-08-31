@@ -21,4 +21,4 @@ This is an introduction about me!
 
 
 <h2> My tech stack 📚 </h2>
- <img src="https://img.shields.io/badge/-.NET-#512BD4?style=for-the-badge&logo=.NET&logoColor=white">
+ <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
