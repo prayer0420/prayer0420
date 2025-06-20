@@ -33,6 +33,15 @@ This is an introduction about me!
 <img src="https://img.shields.io/badge/-Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+
+
+
+
+
+
+
 
 
  
